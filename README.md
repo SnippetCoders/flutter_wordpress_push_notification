@@ -1,16 +1,63 @@
-# wordpress_push_notification
+## 🔥 Push Notification with Flutter, WordPress & OneSignal 🔥
 
-A new Flutter project.
+In this video, We will learn How To Send Push Notification from WordPress to Flutter using OneSignal.
 
-## Getting Started
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZWAuBLckVdU/0.jpg)](https://www.youtube.com/watch?v=ZWAuBLckVdU)
 
-This project is a starting point for a Flutter application.
+⏱TIMESTAMPS
+##### 00:00 - Video Introduction
+##### 00:30 - OneSignal Account Setup
+##### 03:51 - WordPress OneSignal Integration
+##### 05:54 - Flutter OneSignal Integration
+##### 09:22 - Test Notification
+##### 11:10 - WordPress API Modification
+##### 15:28 - Notification Background Handling
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##### 📄Push Notification Website
+https://www.onesignal.com
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### 📎OneSignal Flutter Plugin
+https://pub.dev/packages/onesignal_flutter
+
+##### 📎OneSignal WordPress Plugin
+https://wordpress.org/plugins/onesignal-free-web-push-notifications/
+
+<hr>
+
+### 🤝Stay Connected with me !
+##### ✔ Instagram : https://www.instagram.com/SnippetCoder
+##### ✔ Facebook : https://www.facebook.com/SnippetCoder
+##### ✔ Twitter : https://www.twitter.com/SnippetCoder
+##### ✔ Telegram : https://t.me/SnippetCoder
+##### ✔ Github : https://github.com/SnippetCoders/
+
+<hr>
+
+### ⛄If you like my work , you can support me 
+#### ☑️Patreon : https://www.patreon.com/SnippetCoder
+#### ☑️PayPal : http://www.paypal.me/iSharpeners
+#### ☑️DM For UPI Number
+
+<hr>
+
+PLEASE SUBSCRIBE AND SHARE THIS VIDEO!!!!😳
+THANKS FOR WATCHING!!!
+
+🔥🔥🔥 Upload Image/Video in Flutter with Rest API & WordPress 🔥🔥🔥
+https://youtu.be/dn_4VT6Prkg
+
+🔥🔥🔥 Login/Logout System in Flutter With Rest API & WordPress 🔥🔥🔥
+https://youtu.be/yuHg4cSRdRQ
+
+🔥🔥🔥THE BEST WAY TO LEARN SQFLITE IN FLUTTER DEVELOPMENT : https://youtu.be/Da2IfcEe90E
+
+🔥🔥🔥HIVE ❤️ FLUTTER - LIGHTWEIGHT & FAST NOSQL DATABASE 🔥 : https://youtu.be/HsPG7uqQRSs
+
+🔥🔥🔥FLUTTER - GROCERY APP - WORDPRESS - WOOCOMMERCE SERIES  : https://youtu.be/zxPASMrB25U
+
+🔥🔥🔥FLUTTER NEWS APPLICATION USING GETX AND WORDPRESS CUSTOM API : https://youtu.be/-NQR89xwlK8
+
+Tags and SEO Stuff :
+#flutter #onesignal #pushnotification #fluttertutorial #fluttertutorialinenglish #flutteronesignaltutorial #flutteronesignalnotification #onesignalpushnotification #alternativefirebaseandroid #wordpresspushnotificationstomobile #wordpresspushnotifications #wordpressonesignal #wordpressfirebasepushnotification #flutterpushnotification #fluttertutorialforbeginners #fluttertutorials #woocommerceonesignal #woocommercepushnotification
